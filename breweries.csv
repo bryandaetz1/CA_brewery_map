@@ -1,702 +1,702 @@
-Brewery,Address,Contact_Info,latitude,longitude
+Brewery,Address,Contact_Info,latitude,longitude,City,County
 Alameda Island Brewing Company,"1716 Park Street
-Alameda, California, United States",http://alamedaislandbrewingcompany.com/,37.7683926,-122.2387777
+Alameda, California, United States",http://alamedaislandbrewingcompany.com/,37.7683926,-122.2387777,Alameda,Alameda County
 Faction Brewing,"2501 Monarch Street
-Alameda, California, United States",http://factionbrewing.com/,37.786495,-122.3092901
+Alameda, California, United States",http://factionbrewing.com/,37.786495,-122.3092901,Alameda,Alameda County
 Ocean View Brew Works,"627 San Pablo Avenue
-Albany, California, United States",https://www.oceanviewbrews.com/,37.8942076,-122.2999816
+Albany, California, United States",https://www.oceanviewbrews.com/,37.8942076,-122.2999816,Albany,Alameda County
 Ohana Brewing Company,"7 S 1st Street
-Alhambra, California, United States",http://ohanabrew.com,34.0942875,-118.1278805
+Alhambra, California, United States",http://ohanabrew.com,34.0942875,-118.1278805,Alhambra,Los Angeles County
 Alpine Beer Company,"2363 Alpine Blvd
-Alpine, California, United States",http://alpinebeerco.com/home/,32.835185,-116.762648
+Alpine, California, United States",http://alpinebeerco.com/home/,32.835185,-116.762648,Alpine,San Diego County
 Bottle Logic Brewing,"1072 N. Armando St.
-Anaheim, California, United States",http://bottlelogic.com,33.8494906,-117.8596231
+Anaheim, California, United States",http://bottlelogic.com,33.8494906,-117.8596231,Northeast Anaheim,Anaheim
 Bruery Terreux,"737 Dunn Way
-Anaheim, California, United States",http://www.brueryterreux.com,33.8617888,-117.8799987
+Anaheim, California, United States",http://www.brueryterreux.com,33.8617888,-117.8799987,Placentia,Orange County
 Hoparazzi Brewing Co.,"D
 2910 E La Palma Avenue
-Anaheim, California, United States",+1 (714) 204-0655,33.849116,-117.86313
+Anaheim, California, United States",+1 (714) 204-0655,33.849116,-117.86313,East La Palma Avenue,Northeast Anaheim
 Noble Ale Works,"1621 S Sinclair St
-Anaheim, California, United States",http://www.noblealeworks.com,33.808469,-117.8828344
+Anaheim, California, United States",http://www.noblealeworks.com,33.808469,-117.8828344,Platinum Triangle,Anaheim
 Redwood Curtain Brewing Company,"550 S G Street
-Arcata, California, United States",https://www.redwoodcurtainbrewing.com,40.8571217,-124.0886848
+Arcata, California, United States",https://www.redwoodcurtainbrewing.com,40.8571217,-124.0886848,Arcata,Humboldt County
 Auburn Alehouse,"289 Washington Street
-Auburn, California, United States",http://auburnalehouse.com,38.8954199,-121.0783693
+Auburn, California, United States",http://auburnalehouse.com,38.8954199,-121.0783693,Auburn,Placer County
 Crooked Lane Brewing Company,"536 Grass Valley Highway
-Auburn, California, United States",http://www.crookedlanebrewing.com,38.9094769,-121.0764299
+Auburn, California, United States",http://www.crookedlanebrewing.com,38.9094769,-121.0764299,Auburn,Placer County
 Knee Deep Brewing Company,"13395 New Airport Rd.
-Auburn, California, United States",http://kneedeepbrewing.com,38.9519068,-121.0802363
+Auburn, California, United States",http://kneedeepbrewing.com,38.9519068,-121.0802363,Auburn,Placer County
 Moonraker Brewing Co.,"100
 12970 Earhart Avenue
-Auburn, California, United States",https://www.moonrakerbrewing.com,38.9505327,-121.0817476
+Auburn, California, United States",https://www.moonrakerbrewing.com,38.9505327,-121.0817476,Earhart Avenue,Auburn
 Lengthwise Brewing Company,"7700 District Boulevard
-Bakersfield, California, United States",http://lengthwise.com/,35.3133942,-119.0881046
+Bakersfield, California, United States",http://lengthwise.com/,35.3133942,-119.0881046,Bakersfield,Kern County
 Temblor Brewing Company,"Suite 200
 3200 Buck Owens Boulevard
-Bakersfield, California, United States",https://temblorbrewing.com/,35.3887408,-119.0421741
+Bakersfield, California, United States",https://temblorbrewing.com/,35.3887408,-119.0421741,Buck Owens Boulevard,Bakersfield
 Bison Brewing Company,"930 Dwight Way #10a
-Berkeley, California, United States",http://bisonbrew.com/,0,0
+Berkeley, California, United States",http://bisonbrew.com/,0,0,,
 Fieldwork Brewing Company,"1160 Sixth Street
-Berkeley, California, United States",https://fieldworkbrewing.com/,37.8812674,-122.30234
+Berkeley, California, United States",https://fieldworkbrewing.com/,37.8812674,-122.30234,Northwest Berkeley,Berkeley
 Gilman Brewing Company,"912 Gilman St, Berkeley, CA 94710, USA
-Berkeley, California, United States",http://www.gilmanbrew.com,37.8794929,-122.2998335
+Berkeley, California, United States",http://www.gilmanbrew.com,37.8794929,-122.2998335,Northwest Berkeley,Berkeley
 Jupiter,"2181 Shattuck Avenue
-Berkeley, California, United States",http://www.jupiterbeer.com,37.8697958,-122.267582
+Berkeley, California, United States",http://www.jupiterbeer.com,37.8697958,-122.267582,Downtown Berkeley,Berkeley
 The Rare Barrel,"940 Parker Street
-Berkeley, California, United States",https://www.therarebarrel.com,37.8576504,-122.291395
+Berkeley, California, United States",https://www.therarebarrel.com,37.8576504,-122.291395,Southwest Berkeley,Berkeley
 Triple Rock Brewing,"1920 Shattuck Avenue
-Berkeley, California, United States",http://triplerock.com/,37.8733981,-122.2688226
+Berkeley, California, United States",http://triplerock.com/,37.8733981,-122.2688226,Downtown Berkeley,Berkeley
 The Brewing Lair,"67007 CA Highway 70
-Blairsden, California, United States",http://www.thebrewinglair.com/,39.7839057,-120.6153878
+Blairsden, California, United States",http://www.thebrewinglair.com/,39.7839057,-120.6153878,Blairsden,Plumas County
 Mad River Brewing,"195 Taylor Way
-Blue Lake, California, United States",https://www.madriverbrewing.com,40.8786095,-123.9923322
+Blue Lake, California, United States",https://www.madriverbrewing.com,40.8786095,-123.9923322,Arcata,Humboldt County
 Anderson Valley Brewing Company,"17700 Highway 253
-Boonville, California, United States",http://avbc.com,38.9991521,-123.3583845
+Boonville, California, United States",http://avbc.com,39.0011005,-123.3559362,Boonville,Mendocino County
 TAPS Fish House & Brewery,"101 E Imperial Hwy
-Brentwood, California, United States",http://www.tapsfishhouse.com,33.9176723,-117.9457921
+Brentwood, California, United States",http://www.tapsfishhouse.com,33.9176723,-117.9457921,La Habra,Orange County
 Figueroa Mountain Brewing,"45 Industrial Way
-Buellton, California, United States",http://www.figmtnbrew.com,34.6106475,-120.202269
+Buellton, California, United States",http://www.figmtnbrew.com,34.6106475,-120.202269,Buellton,Santa Barbara County
 Lincoln Beer Company,"3083 N Lima Street
-Burbank, California, United States",https://www.lincolnbeercompany.com/,34.205977,-118.346858
+Burbank, California, United States",https://www.lincolnbeercompany.com/,34.205977,-118.346858,North Hollywood,Burbank
 Trustworthy Brewing Co.,"156 W Verdugo Avenue
-Burbank, California, United States",http://trustworthybrewingco.com/,34.1737857,-118.3104183
+Burbank, California, United States",http://trustworthybrewingco.com/,34.1737857,-118.3104183,Burbank,Los Angeles County
 Institution Ale Co.,"3841 Mission Oaks Blvd
-Camarillo, California, United States",http://www.institutionales.com,34.2168076,-119.0191241
+Camarillo, California, United States",http://www.institutionales.com,34.2168076,-119.0191241,Camarillo,Ventura County
 Campbell Brewing Company,"200 East Campbell Avenue
-Campbell, California, United States",http://www.campbellbrewing.com,37.2868705,-121.9464336
+Campbell, California, United States",http://www.campbellbrewing.com,37.2868705,-121.9464336,Downtown,Campbell
 Arcana Brewing Company,"Suite C
 5621 Palmer Way
-Carlsbad, California, United States",http://www.arcanabrewing.com,33.1398749,-117.2731406
+Carlsbad, California, United States",http://www.arcanabrewing.com,33.1398749,-117.2731406,Palmer Way,Carlsbad
 Burgeon Beer Company,"Suite C
 6350 Yarrow Dr
-Carlsbad, California, United States",http://burgeonbeer.com,33.1197823,-117.272939
+Carlsbad, California, United States",http://burgeonbeer.com,33.1197823,-117.272939,Yarrow Drive,Carlsbad
 Culver Beer Co.,"Suite D
 2719 Loker Avenue West
-Carlsbad, California, United States",http://www.culverbeer.com,33.1326935,-117.2585179
+Carlsbad, California, United States",http://www.culverbeer.com,33.1326935,-117.2585179,Loker Avenue West,Carlsbad
 Guadalupe Brewery,"D
 5674 El Camino Real
-Carlsbad, California, United States",http://www.guadalupebrewery.com/home,33.1387288,-117.2736205
+Carlsbad, California, United States",http://www.guadalupebrewery.com/home,33.1387288,-117.2736205,El Camino Real,Carlsbad
 Pizza Port Brewing Company,"2730 Gateway Road
-Carlsbad, California, United States",http://pizzaport.com,33.1286712,-117.2500668
+Carlsbad, California, United States",http://pizzaport.com,33.1286712,-117.2500668,Bressi Ranch,Carlsbad
 Rouleur Brewing Company,"101
 5840 El Camino Real
-Carlsbad, California, United States",http://rouleurbrewing.com,33.1345148,-117.2700916
+Carlsbad, California, United States",http://rouleurbrewing.com,33.1345148,-117.2700916,El Camino Real,Carlsbad
 Secret Trail Brewing Company,"Suite 120
 132 Meyers Street
-Chico, California, United States",http://www.secrettrailbrewing.com,39.7144708,-121.8172699
+Chico, California, United States",http://www.secrettrailbrewing.com,39.7144708,-121.8172699,Meyers Street,Chico
 Sierra Nevada Brewing Company,"1075 East 20th Street
-Chico, California, United States",http://www.sierranevada.com,39.724193,-121.8153557
+Chico, California, United States",http://www.sierranevada.com,39.724193,-121.8153557,Chico,Butte County
 Chula Vista Brewery,"294 Third Ave.
-Chula Vista, California, United States",http://www.chulavistabrewery.com/,32.6415337,-117.0803506
+Chula Vista, California, United States",http://www.chulavistabrewery.com/,32.6415337,-117.0803506,Chula Vista,San Diego County
 Novo Brazil Brewing,"901 Lane Avenue
-Chula Vista, California, United States",http://www.novobrazilbrewing.com,32.6520158,-116.9614181
+Chula Vista, California, United States",http://www.novobrazilbrewing.com,32.6520158,-116.9614181,Eastlake Business Park,Chula Vista
 Claremont Craft Ales,"204c
 1420 N Claremont Blvd
-Claremont, California, United States",http://www.claremontcraftales.com,34.1088802,-117.7017814
+Claremont, California, United States",http://www.claremontcraftales.com,34.1088802,-117.7017814,North Claremont Boulevard,Claremont
 Bear Republic Brewing Company,"110 Sandholm Lane
-Cloverdale, California, United States",http://bearrepublic.com,38.7819515,-123.0114448
+Cloverdale, California, United States",http://bearrepublic.com,38.7819515,-123.0114448,Cloverdale,Sonoma County
 Black Diamond Brewing Company,"2470 Bates Ave
-Concord, California, United States",http://www.blackdiamondbrew.com,38.0138807,-122.0307369
+Concord, California, United States",http://www.blackdiamondbrew.com,38.0138807,-122.0307369,Concord,Contra Costa County
 Epidemic Ales,"150 Mason Circle, Suite J
-Concord, California, United States",http://www.epidemicales.com/,38.010007,-122.0390849
+Concord, California, United States",http://www.epidemicales.com/,38.010007,-122.0390849,Mason Circle,Concord
 Cool Beerwerks Brewery,"5020 Ellinghouse Drive
-Cool, California, United States",https://www.cbwbeer.com/,38.8862825,-121.0142533
+Cool, California, United States",https://www.cbwbeer.com/,38.8862825,-121.0142533,Cool,El Dorado County
 Barley Forge Brewing Co.,"2957 Randolph Avenue
-Costa Mesa, California, United States",http://barleyforge.com,33.6786961,-117.8882362
+Costa Mesa, California, United States",http://barleyforge.com,33.6786961,-117.8882362,Costa Mesa,Orange County
 Alosta Brewing Company,"692 Arrow Grand Cir.
-Covina, California, United States",http://alostabrewing.com/Home.html,34.1045797,-117.8790096
+Covina, California, United States",http://alostabrewing.com/Home.html,34.1045797,-117.8790096,Covina,Los Angeles County
 Danville Brewing Company,"200 Railroad Avenue
-Danville, California, United States",http://www.danvillebrewing.com/home.html,37.8209882,-122.0001226
+Danville, California, United States",http://www.danvillebrewing.com/home.html,37.8209882,-122.0001226,Danville,Contra Costa County
 Sudwerk Brewing Company,"2001 2nd Street
-Davis, California, United States",http://sudwerkbrew.com,38.5470763,-121.7253793
+Davis, California, United States",http://sudwerkbrew.com,38.5470763,-121.7253793,Davis,Yolo County
 Super Owl Brewing,"121
 2614 1260 Lake Boulevard
-Davis, California, United States",http://www.superowlbrewing.com/,38.5533413,-121.7869966
+Davis, California, United States",http://www.superowlbrewing.com/,38.5533413,-121.7869966,Stonegate,Davis
 Viewpoint Brewing Company,"2201 San Dieguito Drive
-Del Mar, California, United States",https://www.viewpointbrewing.com/,32.9699356,-117.2617788
+Del Mar, California, United States",https://www.viewpointbrewing.com/,32.9699356,-117.2617788,Del Mar,San Diego County
 Burning Beard Brewing Company,"785 Vernon Way
-El Cajon, California, United States",http://burningbeardbrewing.com,32.8117415,-116.9724106
+El Cajon, California, United States",http://burningbeardbrewing.com,32.8117415,-116.9724106,El Cajon,San Diego County
 Elevation 66 Brewing Company,"10082 San Pablo Ave, El Cerrito, CA 94530, United States
-El Cerrito, California, United States",http://www.elevation66.com,37.90207729999999,-122.3028455
+El Cerrito, California, United States",http://www.elevation66.com,37.90207729999999,-122.3028455,El Cerrito,Contra Costa County
 Mraz Brewing Company,"510
 2222 Francisco Drive
-El Dorado County, California, United States",http://mrazbrewingcompany.com,38.7102594,-121.0861765
+El Dorado County, California, United States",http://mrazbrewingcompany.com,38.7102594,-121.0861765,Francisco Drive,El Dorado Hills
 El Segundo Brewing Company,"140 Main Street
-El Segundo, California, United States",http://elsegundobrewing.com,33.9177145,-118.4157129
+El Segundo, California, United States",http://elsegundobrewing.com,33.9177145,-118.4157129,El Segundo,Los Angeles County
 Arrogant Consortia,"1999 Citracado Parkway
-Escondido, California, United States",http://www.arrogantbrewing.com,33.1158112,-117.1200116
+Escondido, California, United States",http://www.arrogantbrewing.com,33.1158112,-117.1200116,Vineyard,Escondido
 Jacked Up Brewery,"800 W Grand Ave
-Escondido, California, United States",http://jackedupbrewery.com,33.1172018,-117.0916816
+Escondido, California, United States",http://jackedupbrewery.com,33.1172018,-117.0916816,Central Escondido,Escondido
 Lost Coast Brewery,"1600 Sunset Drive
-Eureka, California, United States",http://www.lostcoast.com,40.7674523,-124.1890775
+Eureka, California, United States",http://www.lostcoast.com,40.7674523,-124.1890775,Eureka,Humboldt County
 Iron Springs Brewpub,"765 Center Boulevard
-Fairfax, California, United States",http://ironspringspub.com/,37.9858756,-122.5840658
+Fairfax, California, United States",http://ironspringspub.com/,37.9858756,-122.5840658,Fairfax,Marin County
 Heretic Brewing Company,"1052 Horizon Drive
-Fairfield, California, United States",http://www.hereticbrewing.com,38.2737055,-122.015493
+Fairfield, California, United States",http://www.hereticbrewing.com,38.2737055,-122.015493,Fairfield,Solano County
 Fallbrook Brewing Company,"136 N. Main Avenue
-Fallbrook, California, United States",http://www.fallbrookbrewing.com,33.3827003,-117.2515165
+Fallbrook, California, United States",http://www.fallbrookbrewing.com,33.3827003,-117.2515165,Fallbrook,San Diego County
 North Coast Brewing Company,"444 N Main Street
-Fort Bragg, California, United States",http://www.northcoastbrewing.com/,39.44632740000001,-123.8055797
+Fort Bragg, California, United States",http://www.northcoastbrewing.com/,39.44632740000001,-123.8055797,Fort Bragg,Mendocino County
 Eel River Brewing Co.,"1777 Alamar Way
-Fortuna, California, United States",http://eelriverbrewing.com,40.5793621,-124.1529821
+Fortuna, California, United States",http://eelriverbrewing.com,40.5793621,-124.1529821,Fortuna,Humboldt County
 Das Brew Inc.,"44356 S Grimmer Blvd.
-Fremont, California, United States",http://www.dasbrewinc.com/home,37.5029817,-121.9547856
+Fremont, California, United States",http://www.dasbrewinc.com/home,37.5029817,-121.9547856,East Industrial,Fremont
 Tioga-Sequoia Brewing Company,"745 Fulton Street
-Fresno, California, United States",http://tiogasequoia.com,36.730957,-119.7884403
+Fresno, California, United States",http://tiogasequoia.com,36.730957,-119.7884403,Downtown,Fresno
 Bootlegger's Brewery,"1100 E Truslow Ave
-Fullerton, California, United States",http://www.bootleggersbrewery.com,33.8672504,-117.9087433
+Fullerton, California, United States",http://www.bootleggersbrewery.com,33.8672504,-117.9087433,Fullerton,Orange County
 Captain Fatty's Brewery,"D
 6483 Calle Real
-Goleta, California, United States",http://www.captainfattys.com,34.4395057,-119.8517743
+Goleta, California, United States",http://www.captainfattys.com,34.4395057,-119.8517743,Calle Real,Goleta
 Half Moon Bay Brewing Company,"390 Capistrano Road
-Half Moon Bay, California, United States",http://www.hmbbrewingco.com/,37.50406160000001,-122.4855976
+Half Moon Bay, California, United States",http://www.hmbbrewingco.com/,37.50406160000001,-122.4855976,Half Moon Bay,San Mateo County
 Common Space Brewery,"3411 West El Segundo Boulevard
-Hawthorne, California, United States",https://www.commonspace.la/our-team,33.9168553,-118.3335049
+Hawthorne, California, United States",https://www.commonspace.la/our-team,33.9168553,-118.3335049,Hawthorne,Los Angeles County
 Buffalo Bill's Brewery,"1082 B St
-Hayward, California, United States",http://buffalobillsbrewery.com,37.6739744,-122.0815475
+Hayward, California, United States",http://buffalobillsbrewery.com,37.6739744,-122.0815475,Hayward,Alameda County
 Sonoma Cider,"44F MILL STREET
-Healdsburg, California, United States",http://sonomacider.com/?,38.6072936,-122.87057
+Healdsburg, California, United States",http://sonomacider.com/?,38.6072936,-122.87057,Healdsburg,Sonoma County
 Humble Farmer Brewing Company,"438 Walnut Avenue
-Holtville, California, United States",http://www.humblefarmerbrewing.com,32.809944,-115.3761186
+Holtville, California, United States",http://www.humblefarmerbrewing.com,32.809944,-115.3761186,Holtville,Imperial County
 BJ's Restaurant and Brewery,"7755 Center Avenue
-Imperial Beach, California, United States",http://www.bjsrestaurants.com,32.5832714,-117.1242758
+Imperial Beach, California, United States",http://www.bjsrestaurants.com,33.734938,-117.9951405,Huntington Beach,Orange County
 Three Weavers Brewing Company,"1031 W Manchester Blvd
-Inglewood, California, United States",http://www.threeweavers.la,33.9607223,-118.3745915
+Inglewood, California, United States",http://www.threeweavers.la,33.9607223,-118.3745915,Westchester,Inglewood
 Evans Brewing Company,"2000 Main Street
-Irvine, California, United States",http://www.evansbrewco.com,33.68434,-117.850673
-Jamul Brewing Co.,"Jamul, California, United States",http://jpilarwines.com/jamul-brewing-co,32.7169988,-116.8761347
+Irvine, California, United States",http://www.evansbrewco.com,33.68434,-117.850673,Irvine Business Complex,Irvine
+Jamul Brewing Co.,"Jamul, California, United States",http://jpilarwines.com/jamul-brewing-co,32.7169988,-116.8761347,California,United States
 La Jolla Brewing Company,"7536 Fay Ave.
-La Jolla, California, United States",http://www.lajollabeer.com,32.8407895,-117.2744546
+La Jolla, California, United States",http://www.lajollabeer.com,32.8407895,-117.2744546,La Jolla,San Diego
 Bolt Brewery,"8179 Center St
-La Mesa, California, United States",http://boltbrewery.com,32.7718969,-117.0205938
+La Mesa, California, United States",http://boltbrewery.com,32.7718969,-117.0205938,La Mesa,San Diego County
 Fourpenny House,"8323 La Mesa Blvd.
-La Mesa, California, United States",http://www.fourpennyhouse.com,32.7648916,-117.0183293
+La Mesa, California, United States",http://www.fourpennyhouse.com,32.7648916,-117.0183293,La Mesa,San Diego County
 Cold Water Brewery & Grill,"2544 HWY 50
-Lake Tahoe, California, United States",http://www.tahoecoldwaterbrewery.com,38.9250011,-119.9863551
+Lake Tahoe, California, United States",http://www.tahoecoldwaterbrewery.com,38.9250011,-119.9863551,South Lake Tahoe,El Dorado County
 Marin Brewing Company,"1809 Larkspur Landing Circle
-Lake Tahoe, California, United States",http://www.marinbrewing.com,37.9475367,-122.5096228
+Lake Tahoe, California, United States",http://www.marinbrewing.com,37.9475367,-122.5096228,Larkspur,Marin County
 Stadium Pizza,"169 N Main Street
-Lake Tahoe, California, United States",http://www.stadiumpizza.com,38.969436,-119.934979
+Lake Tahoe, California, United States",http://www.stadiumpizza.com,38.969436,-119.934979,Stateline,Douglas County
 The Brewery at Lake Tahoe,"3542 Lake Tahoe Boulevard
-Lake Tahoe, California, United States",http://www.brewerylaketahoe.com/,38.9466858,-119.9617901
+Lake Tahoe, California, United States",http://www.brewerylaketahoe.com/,38.9466858,-119.9617901,South Lake Tahoe,El Dorado County
 Bravery Brewing,"42705 8th St W
-Lancaster, California, United States",http://www.braverybrewing.com,34.6587182,-118.1460515
+Lancaster, California, United States",http://www.braverybrewing.com,34.6587182,-118.1460515,Lancaster,Los Angeles County
 Packinghouse Brewing Company,"6421 Central Avenue
-Little River, California, United States",http://www.pbbeer.com,39.2717465,-123.7899217
+Little River, California, United States",http://www.pbbeer.com,39.2717465,-123.7899217,California,United States
 Altamont Beer Works,"2402 Research Drive
-Livermore, California, United States",https://altamontbeerworks.com/,37.6758493,-121.7199996
+Livermore, California, United States",https://altamontbeerworks.com/,37.6758493,-121.7199996,Livermore,Alameda County
 Eight Bridges Brewing Company,"332 Earhart Way
-Livermore, California, United States",http://www.eightbridgesbrewing.com,37.6985394,-121.8125322
+Livermore, California, United States",http://www.eightbridgesbrewing.com,37.6985394,-121.8125322,Livermore,Alameda County
 Shadow Puppet Brewing Company,"Suite B
 4771 Arroyo Vista
-Livermore, California, United States",http://www.shadowpuppetbrewing.com,37.6992494,-121.7386035
+Livermore, California, United States",http://www.shadowpuppetbrewing.com,37.6992494,-121.7386035,Arroyo Vista,Livermore
 Working Man Brewing Company,"Suite F
 5542 Brisa Street
-Livermore, California, United States",http://workingmanbrewing.com/,37.6976057,-121.7252012
+Livermore, California, United States",http://workingmanbrewing.com/,37.6976057,-121.7252012,Brisa Street,Livermore
 Beachwood BBQ & Brewing,"210 East 3rd Street
-Longbeach, California, United States",http://beachwoodbbq.com,33.7702526,-118.190819
+Longbeach, California, United States",http://beachwoodbbq.com,33.7702526,-118.190819,Downtown Core,Long Beach
 Angel City Brewery,"216 S Alameda Street
-Los Angeles, California, United States",http://angelcitybrewery.com,34.0462772,-118.2377707
+Los Angeles, California, United States",http://angelcitybrewery.com,34.0462772,-118.2377707,Downtown Los Angeles,Los Angeles
 Arts District Brewing Company,"828 Traction Ave
-Los Angeles, California, United States",http://213dthospitality.com/project/arts-district-brewing-co,34.044715,-118.2352693
+Los Angeles, California, United States",http://213dthospitality.com/project/arts-district-brewing-co,34.044715,-118.2352693,Downtown Los Angeles,Los Angeles
 Boomtown Brewery,"700 Jackson Street
-Los Angeles, California, United States",https://boomtownbrew.com/?v=3e8d115eb4b3,34.0507877,-118.2332004
-Brewery Rex,"Los Angeles, California, United States",https://breweryrex.com,34.0522342,-118.2436849
+Los Angeles, California, United States",https://boomtownbrew.com/?v=3e8d115eb4b3,34.0507877,-118.2332004,Downtown Los Angeles,Los Angeles
+Brewery Rex,"Los Angeles, California, United States",https://breweryrex.com,34.0522342,-118.2436849,California,United States
 Eagle Rock Brewery,"3056 Roswell St
-Los Angeles, California, United States",http://www.eaglerockbrewery.com,34.1148909,-118.2433168
+Los Angeles, California, United States",http://www.eaglerockbrewery.com,34.1148909,-118.2433168,Northeast Los Angeles,Los Angeles
 Golden Road Brewing,"5410 W San Fernando Road
-Los Angeles, California, United States",http://goldenroad.la/home,34.1506265,-118.2744516
+Los Angeles, California, United States",http://goldenroad.la/home,34.1506265,-118.2744516,Los Angeles,Los Angeles County
 Indie Brewing Company,"2350 Sunrise Street
-Los Angeles, California, United States",https://indiebrewco.com/?age-verified=b82e0ab29a,34.0352566,-118.2226215
+Los Angeles, California, United States",https://indiebrewco.com/?age-verified=b82e0ab29a,34.0352566,-118.2226215,Central LA,Los Angeles
 MacLeod Ale Brewing Co.,"14741 Calvert Street
-Los Angeles, California, United States",http://www.macleodale.com,34.181975,-118.4545966
+Los Angeles, California, United States",http://www.macleodale.com,34.181975,-118.4545966,Van Nuys,Los Angeles
 Black Doubt Brewing Co.,"452 Old Mammoth Rd
-Mammoth Lakes, California, United States",http://blackdoubtbrewing.com,37.6395856,-118.9675105
-Headlands Brewing Company,"Mill Valley, California, United States",http://headlandsbrewing.com,37.9060368,-122.5449763
+Mammoth Lakes, California, United States",http://blackdoubtbrewing.com,37.6395856,-118.9675105,Mammoth Lakes,Mono County
+Headlands Brewing Company,"Mill Valley, California, United States",http://headlandsbrewing.com,37.9060368,-122.5449763,California,United States
 Alvarado Street Brewery,"426 Alvarado Street
-Monterey, California, United States",http://www.alvaradostreetbrewery.com,36.5993012,-121.894812
+Monterey, California, United States",http://www.alvaradostreetbrewery.com,36.5993012,-121.894812,Monterey,Monterey County
 Enegren Brewing Company,"120
 444 Zachary Street
-Moorpark, California, United States",http://www.enegrenbrewing.com,34.2830922,-118.8709343
+Moorpark, California, United States",http://www.enegrenbrewing.com,34.2830922,-118.8709343,Zachary Street,Moorpark
 Chihuahua Brewing Co.,"3107 Newport Boulevard
-Newport Beach, California, United States",https://www.chihuahuacerveza.com/,33.6152354,-117.930735
+Newport Beach, California, United States",https://www.chihuahuacerveza.com/,33.6152354,-117.930735,Balboa Peninsula,Newport Beach
 Newport Beach Brewing Company,"2920 Newport Blvd
-Newport Beach, California, United States",http://newportbeachbrewingcompany.com,33.6144919,-117.9297973
+Newport Beach, California, United States",http://newportbeachbrewingcompany.com,33.6144919,-117.9297973,Balboa Peninsula,Newport Beach
 Moylan's Brewery & Restaurant,"15 Rowland Way
-Novato, California, United States",http://www.moylans.com/site/pages/home/index.php,38.0940726,-122.5567532
+Novato, California, United States",http://www.moylans.com/site/pages/home/index.php,38.0940726,-122.5567532,Novato,Marin County
 Ale Industries,"3096 E. 10th St.
-Oakland, California, United States",http://www.aleindustries.com/,37.7762605,-122.2282069
+Oakland, California, United States",http://www.aleindustries.com/,37.7762605,-122.2282069,Hawthorne,Oakland
 Crooked City Cider,"477 25th Street
-Oakland, California, United States",http://www.crookedcitycider.com/,37.8142922,-122.2673826
+Oakland, California, United States",http://www.crookedcitycider.com/,37.8142922,-122.2673826,Northgate - Waverly,Oakland
 Novel Brewing Company,"6510 San Pablo Avenue
-Oakland, California, United States",http://www.novelbrewing.com,37.8484599,-122.2851266
+Oakland, California, United States",http://www.novelbrewing.com,37.8484599,-122.2851266,Paradise Park,Oakland
 Oakland United Beerworks,"262 2nd Street
-Oakland, California, United States",https://oaklandunitedbeerworks.com/,37.7944925,-122.2720183
+Oakland, California, United States",https://oaklandunitedbeerworks.com/,37.7944925,-122.2720183,Produce and Waterfront,Oakland
 Old Kan Beer Co.,"95 Linden Street
-Oakland, California, United States",http://www.old-kan.com,37.7994835,-122.2881734
+Oakland, California, United States",http://www.old-kan.com,37.7994835,-122.2881734,Acorn Industrial,Oakland
 Original Pattern Brewing Company,"292 4th St, Oakland, CA 94607, USA
-Oakland, California, United States",https://www.originalpatternbeer.com,37.7961351,-122.2714589
+Oakland, California, United States",https://www.originalpatternbeer.com,37.7961351,-122.2714589,Produce and Waterfront,Oakland
 Pacific Coast Brewing Co.,"906 Washington Street
-Oakland, California, United States",http://www.pacificcoastbrewing.com/,37.80150270000001,-122.2741989
+Oakland, California, United States",http://www.pacificcoastbrewing.com/,37.80150270000001,-122.2741989,Downtown Oakland,Oakland
 Roses' Taproom,"4930 Telegraph Avenue Oakland, CA, 94609 United States
-Oakland, California, United States",http://www.rosestaproom.com/,37.836328,-122.2621094
+Oakland, California, United States",http://www.rosestaproom.com/,37.836328,-122.2621094,Temescal,Oakland
 Woods Beer Company,"1701 Telegraph Avenue
-Oakland, California, United States",http://www.woodsbeer.com,37.8070162,-122.2705888
+Oakland, California, United States",http://www.woodsbeer.com,37.8070162,-122.2705888,Downtown Oakland,Oakland
 Bagby Beer Company,"601 S Coast Hwy
-Oceanside, California, United States",http://www.bagbybeer.com,33.1893679,-117.374349
+Oceanside, California, United States",http://www.bagbybeer.com,33.1893679,-117.374349,Townsite,Oceanside
 Black Plague Brewery,"2550 Jason Court
-Oceanside, California, United States",http://blackplaguebrewing.com,33.2156117,-117.266739
+Oceanside, California, United States",http://blackplaguebrewing.com,33.2156117,-117.266739,Peacock,Oceanside
 Breakwater Brewing Co.,"101 N. Coast Highway
-Oceanside, California, United States",http://breakwaterbrewing.com,33.1950924,-117.3791266
+Oceanside, California, United States",http://breakwaterbrewing.com,33.1950924,-117.3791266,Townsite,Oceanside
 Legacy Brewing Co.,"363 Airport Rd
-Oceanside, California, United States",http://www.legacybrewingco.com,33.2153756,-117.3507678
+Oceanside, California, United States",http://www.legacybrewingco.com,33.2153756,-117.3507678,Oceanside,San Diego County
 Oceanside Brewing Company,"312 Via Del Norte
-Oceanside, California, United States",http://www.oceansidebrewingco.com,33.2128018,-117.3522371
+Oceanside, California, United States",http://www.oceansidebrewingco.com,33.2128018,-117.3522371,Oceanside,San Diego County
 Green Cheek Beer Company,"C
 3108, 2294 N Batavia Street
-Orange, California, United States",http://www.greencheekbeer.com,33.8255231,-117.8638789
+Orange, California, United States",http://www.greencheekbeer.com,33.8260598,-117.8640326,North Batavia Street,Orange
 Casa Agria Specialty Ales,"701 N. Del Norte Blvd.
-Oxnard, California, United States",http://www.casaagria.com,34.2076238,-119.1286147
+Oxnard, California, United States",http://www.casaagria.com,34.2076238,-119.1286147,Oxnard,Ventura County
 La Quinta Brewing Company,"77917 Wildcat Drive
-Palm Springs, California, United States",http://www.laquintabrewing.com,33.7647875,-116.30534
+Palm Springs, California, United States",http://www.laquintabrewing.com,33.7647875,-116.30534,Palm Desert,Riverside County
 Homage Brewing,"281 S. Thomas St.
-Parlier, California, United States",http://www.homagebrewing.com,34.0571146,-117.7513333
+Parlier, California, United States",http://www.homagebrewing.com,34.0571146,-117.7513333,Pomona,Los Angeles County
 Barrelhouse Brewing Company,"3055 Limestone Way
-Paso Robles, California, United States",http://www.barrelhousebrewing.com,35.575971,-120.6911167
+Paso Robles, California, United States",http://www.barrelhousebrewing.com,35.575971,-120.6911167,Paso Robles,San Luis Obispo County
 Barrelhouse Brewing Company,"3055 Limestone Way
-Paso Robles, California, United States",http://www.barrelhousebrewing.com,35.575971,-120.6911167
+Paso Robles, California, United States",http://www.barrelhousebrewing.com,35.575971,-120.6911167,Paso Robles,San Luis Obispo County
 101 North Brewing Company,"1304 Scott Street
-Petaluma, California, United States",http://www.101northbeer.com,38.269996,-122.6651916
+Petaluma, California, United States",http://www.101northbeer.com,38.269996,-122.6651916,Petaluma,Sonoma County
 Lagunitas Brewing Company,"1280 North McDowell Blvd
-Petaluma, California, United States",https://lagunitas.com/,38.2726597,-122.6618868
+Petaluma, California, United States",https://lagunitas.com/,38.2726597,-122.6618868,Petaluma,Sonoma County
 Stereo Brewing Company,"950 S Vía Rodeo
-Placentia, California, United States",https://www.stereobrewing.com,33.8631801,-117.8195571
+Placentia, California, United States",https://www.stereobrewing.com,33.8631801,-117.8195571,Atwood,Placentia
 The Bruery,"737 Dunn Way
-Placentia, California, United States",http://www.thebruery.com,33.8617888,-117.8799987
+Placentia, California, United States",http://www.thebruery.com,33.8617888,-117.8799987,Placentia,Orange County
 Amador Brewing Company,"9659 Main Street
-Plymouth, California, United States",http://www.amadorbrewing.com,38.4823444,-120.8434817
+Plymouth, California, United States",http://www.amadorbrewing.com,38.4823444,-120.8434817,Plymouth,Amador County
 Sanctum Brewing Company,"21
 560 E Commercial Street
-Pomona, California, United States",https://www.sanctumbrewing.com/home,34.0595158,-117.740524
+Pomona, California, United States",https://www.sanctumbrewing.com/home,34.0595158,-117.740524,East Commercial Street,Pomona
 Lightning Brewery,"#105
 13200 Kirkham Way
-Poway, California, United States",http://www.lightningbrew.com,0,0
+Poway, California, United States",http://www.lightningbrew.com,0,0,,
 Chuck Alek Independent Brewers,"Ste C
 2330 Main St
-Ramona, California, United States",http://www.chuckalek.com,33.0277812,-116.8892148
+Ramona, California, United States",http://www.chuckalek.com,33.0277812,-116.8892148,Main Street,Ramona
 Fort Rock Brewing,"110
 12401 Folsom Blvd
-Rancho Cordova, California, United States",http://www.fortrockbrewing.com,38.6303857,-121.2155194
+Rancho Cordova, California, United States",http://www.fortrockbrewing.com,38.6303857,-121.2155194,Folsom Boulevard,Rancho Cordova
 No Clue Craft Brewery,"170
 9037 Arrow Route
-Rancho Cucamonga, California, United States",https://nocluebrew.com,34.0988097,-117.6081857
+Rancho Cucamonga, California, United States",https://nocluebrew.com,34.0988097,-117.6081857,Arrow Route,Rancho Cucamonga
 Hangar 24 Craft Brewery,"1710 Sessums Drive
-Redlands, California, United States",https://hangar24brewing.com,34.08313640000001,-117.141779
+Redlands, California, United States",https://hangar24brewing.com,34.08313640000001,-117.141779,North Redlands,Redlands
 Fall River Brewing Company,"1030 East Cypress
-Redwood City, California, United States",http://fallriverbrewing.com,37.4690036,-122.2178537
+Redwood City, California, United States",http://fallriverbrewing.com,37.4690036,-122.2178537,Redwood Oaks,Redwood City
 Freewheel Brewing Company,"3736 Florence St
-Redwood City, California, United States",http://freewheelbrewing.com/,37.4782228,-122.1867856
+Redwood City, California, United States",http://freewheelbrewing.com/,37.4782228,-122.1867856,Friendly Acres,Redwood City
 Armistice Brewing Company,"#1
 845 Marina Bay Parkway
-Richmond, California, United States",http://www.armisticebrewing.com,0,0
+Richmond, California, United States",http://www.armisticebrewing.com,0,0,,
 East Brother Beer Company,"1001 Canal Boulevard
-Richmond, California, United States",http://www.eastbrotherbeer.com,37.91757399999999,-122.375375
+Richmond, California, United States",http://www.eastbrotherbeer.com,37.91757399999999,-122.375375,Point Richmond,Richmond
 Far West Cider Co.,"1325 Canal Boulevard
-Richmond, California, United States",http://farwestcider.com/,37.9053482,-122.3645402
+Richmond, California, United States",http://farwestcider.com/,37.9053482,-122.3645402,Richmond,Contra Costa County
 Out of Bounds Brewing Company,"100
 4480 Yankee Hill Road
-Rocklin, California, United States",http://www.outofboundsbrewing.com,38.799114,-121.2294653
+Rocklin, California, United States",http://www.outofboundsbrewing.com,38.799114,-121.2294653,Yankee Hill Road,Rocklin
 Track 7 Brewing Company,"3747 W Pacific Avenue
-Sacramento, California, United States",https://track7brewing.com,38.5389986,-121.481769
+Sacramento, California, United States",https://track7brewing.com,38.5389986,-121.481769,Southeastern Sacramento,Sacramento
 South City Ciderworks,"1236 Montgomery Ave
-San Bruno, California, United States",http://www.southcitycider.com/,37.6399405,-122.4121941
+San Bruno, California, United States",http://www.southcitycider.com/,37.6399405,-122.4121941,San Bruno,San Mateo County
 Devil's Canyon Brewing Company,"935 Washington St
-San Carlos, California, United States",http://devilscanyon.com/,37.4981691,-122.2442512
+San Carlos, California, United States",http://devilscanyon.com/,37.4981691,-122.2442512,San Carlos,San Mateo County
 High Water Brewing,"1924 Pacific Avenue
-San Carlos, California, United States",http://www.highwaterbrewing.com,37.7945668,-122.4272609
+San Carlos, California, United States",http://www.highwaterbrewing.com,37.7945668,-122.4272609,Pacific Heights,San Francisco
 Artifex Brewing Company,"919 Calle Amanecer
-San Clemente, California, United States",http://artifexbrewing.com,33.4489329,-117.6059392
+San Clemente, California, United States",http://artifexbrewing.com,33.4489329,-117.6059392,San Clemente,Orange County
 Left Coast Brewing Company,"1245 Puerta Del Sol
-San Clemente, California, United States",http://leftcoastbrewing.com/,33.4576645,-117.5887916
+San Clemente, California, United States",http://leftcoastbrewing.com/,33.4576645,-117.5887916,San Clemente,Orange County
 Oggi's Pizza & Brewing Company,"1245 Puerta del Sol
-San Clemente, California, United States",https://oggis.com,33.4576645,-117.5887916
+San Clemente, California, United States",https://oggis.com,33.4576645,-117.5887916,San Clemente,Orange County
 2Kids Brewing Company,"#123
 8680 Miralani Dr
-San Diego, California, United States",http://2kidsbrewing.com,0,0
+San Diego, California, United States",http://2kidsbrewing.com,0,0,,
 32 North Brewing Co.,"8655 Production Ave
-San Diego, California, United States",http://www.32northbrew.com,32.8826783,-117.1648175
+San Diego, California, United States",http://www.32northbrew.com,32.8826783,-117.1648175,Miramar,San Diego
 Abnormal Beer Company,"Ste. 123
 16990 Via Tazon
-San Diego, California, United States",https://abnormalbeer.co,33.0236355,-117.0859077
+San Diego, California, United States",https://abnormalbeer.co,33.0236355,-117.0859077,Via Tazon,Rancho Bernardo
 Acoustic Ales Brewing Experiment,"2120 W Washington Street
-San Diego, California, United States",http://www.acousticales.com,32.741909,-117.1835198
+San Diego, California, United States",http://www.acousticales.com,32.741909,-117.1835198,Mission Hills,San Diego
 AleSmith Brewing Co,"9990 AleSmith Court
-San Diego, California, United States",http://alesmith.com,32.8882176,-117.149821
+San Diego, California, United States",http://alesmith.com,32.8882176,-117.149821,Miramar,San Diego
 Align Brewing,"8680 Miralani Drive
-San Diego, California, United States",+1 (619) 786-2781,32.8966532,-117.1372753
+San Diego, California, United States",+1 (619) 786-2781,32.8966532,-117.1372753,Miramar,San Diego
 Alta Brewing Company,"1983 Julian Avenue
-San Diego, California, United States",http://altabrewingsd.com/,32.7018919,-117.1412748
+San Diego, California, United States",http://altabrewingsd.com/,32.7018919,-117.1412748,Logan Heights,San Diego
 Amplified Ale Works,"#208
 4150 Mission Blvd.
-San Diego, California, United States",http://www.amplifiedales.com,0,0
+San Diego, California, United States",http://www.amplifiedales.com,0,0,,
 Attitude Brewing Co.,"Suite 1115
 1985 National Avenue
-San Diego, California, United States",https://attitudebrewing.com/,32.7000923,-117.1446282
+San Diego, California, United States",https://attitudebrewing.com/,32.7000923,-117.1446282,National Avenue,Barrio Logan
 Attitude Brewing Co.,"Suite 1115
 1985 National Avenue
-San Diego, California, United States",https://attitudebrewing.com/,32.7000923,-117.1446282
+San Diego, California, United States",https://attitudebrewing.com/,32.7000923,-117.1446282,National Avenue,Barrio Logan
 Ballast Point Brewing Company,"9045 Carroll Way
-San Diego, California, United States",https://www.ballastpoint.com,32.8879565,-117.1579086
+San Diego, California, United States",https://www.ballastpoint.com,32.8879565,-117.1579086,Miramar,San Diego
 Barn Brewery,"#3
 2850 El Cajon Boulevard
-San Diego, California, United States",https://thebarnbrew.com/,0,0
+San Diego, California, United States",https://thebarnbrew.com/,0,0,,
 Bay City Brewing Company,"3760 Hancock St
-San Diego, California, United States",http://www.baycitybrewingco.com,32.7580336,-117.2118028
+San Diego, California, United States",http://www.baycitybrewingco.com,32.7580336,-117.2118028,Midway District,San Diego
 Benchmark Brewing Co.,"Suite G
 6190 Fairmount Avenue
-San Diego, California, United States",http://www.benchmarkbrewing.com/Benchmark_Brewing_Company/HOME.html,32.7872447,-117.1020698
+San Diego, California, United States",http://www.benchmarkbrewing.com/Benchmark_Brewing_Company/HOME.html,32.7872447,-117.1020698,Fairmount Avenue,Grantville
 Bitter Brothers Brewing Co.,"4170 Morena Blvd
-San Diego, California, United States",http://bitterbrothers.com/,32.8157824,-117.2201636
+San Diego, California, United States",http://bitterbrothers.com/,32.8157824,-117.2201636,Clairemont,San Diego
 Bitter Brothers Brewing Company,"4170 Morena Blvd
-San Diego, California, United States",http://bitterbrothers.com,32.8157824,-117.2201636
+San Diego, California, United States",http://bitterbrothers.com,32.8157824,-117.2201636,Clairemont,San Diego
 BORDER X BREWING,"2181 Logan Avenue
-San Diego, California, United States",https://www.borderxbrewing.com/,32.6980984,-117.1397799
+San Diego, California, United States",https://www.borderxbrewing.com/,32.6980984,-117.1397799,Barrio Logan,San Diego
 California Wild Ales,"4202 Sorrento Valley Boulevard
-San Diego, California, United States",https://www.californiawildales.com/,32.9050831,-117.2151184
+San Diego, California, United States",https://www.californiawildales.com/,32.9050831,-117.2151184,Sorrento Mesa,San Diego
 Circle 9 Brewing Co.,"Suite C
 7292 Opportunity Road
-San Diego, California, United States",http://circle9brewingco.com/,32.8257279,-117.1607576
+San Diego, California, United States",http://circle9brewingco.com/,32.8257279,-117.1607576,Opportunity Road,Kearny Mesa
 Citizen Brewers,"Suite A
 5837 Mission Gorge Road
-San Diego, California, United States",http://citizenbrewers.com/,32.781436,-117.100263
+San Diego, California, United States",http://citizenbrewers.com/,32.781436,-117.100263,Mission Gorge Road,Grantville
 Coronado Brewing Company,"1205 Knoxville Street
-San Diego, California, United States",http://coronadobrewing.com/,32.7718721,-117.2045788
+San Diego, California, United States",http://coronadobrewing.com/,32.7718721,-117.2045788,Clairemont,San Diego
 Council Brewing Company,"7705 Convoy Court
-San Diego, California, United States",http://www.councilbrew.com,32.8345474,-117.1544514
+San Diego, California, United States",http://www.councilbrew.com,32.8345474,-117.1544514,Kearny Mesa,San Diego
 Deft Brewing,"5328 Banks Street
-San Diego, California, United States",https://www.deftbrewing.com/,32.7643879,-117.1989393
+San Diego, California, United States",https://www.deftbrewing.com/,32.7643879,-117.1989393,Morena,San Diego
 Division 23 Brewing,"7408 Trade St.
-San Diego, California, United States",https://www.division23brewing.com,32.890339,-117.162898
+San Diego, California, United States",https://www.division23brewing.com,32.890339,-117.162898,Miramar,San Diego
 Duck Foot Brewing Company,"210
 8920 Kenamar Drive
-San Diego, California, United States",http://duckfootbeer.com,32.8854988,-117.1563922
+San Diego, California, United States",http://duckfootbeer.com,32.8854988,-117.1563922,Kenamar Drive,Miramar
 Duck Foot Brewing Company,"210
 8920 Kenamar Drive
-San Diego, California, United States",http://duckfootbeer.com,32.8854988,-117.1563922
+San Diego, California, United States",http://duckfootbeer.com,32.8854988,-117.1563922,Kenamar Drive,Miramar
 Duck Foot Brewing Company,"210
 8920 Kenamar Drive
-San Diego, California, United States",http://duckfootbeer.com,32.8854988,-117.1563922
-Fat Cat Beer Company,"San Diego, California, United States",http://www.fatcatbeers.com,32.715738,-117.1610838
+San Diego, California, United States",http://duckfootbeer.com,32.8854988,-117.1563922,Kenamar Drive,Miramar
+Fat Cat Beer Company,"San Diego, California, United States",http://www.fatcatbeers.com,32.715738,-117.1610838,California,United States
 Gravity Heights,"9920 Pacific Heights Boulevard
-San Diego, California, United States",https://www.gravityheights.com/,32.9000049,-117.1903479
+San Diego, California, United States",https://www.gravityheights.com/,32.9000049,-117.1903479,Sorrento Mesa,San Diego
 Green Flash Brewing Company,"6550 Mira Mesa Blvd.
-San Diego, California, United States",http://www.greenflashbrew.com/home/,32.9071098,-117.1777588
+San Diego, California, United States",http://www.greenflashbrew.com/home/,32.9071098,-117.1777588,Sorrento Mesa,San Diego
 Groundswell Brewing Co.,"Grantville 6304 Riverdale St.
-San Diego, California, United States",http://groundswellbrew.com,32.7889952,-117.0997872
+San Diego, California, United States",http://groundswellbrew.com,32.7889952,-117.0997872,Grantville,San Diego
 Half Door Brewing Company,"903 Island Ave
-San Diego, California, United States",http://www.halfdoorbrewing.com,32.7102641,-117.1562711
+San Diego, California, United States",http://www.halfdoorbrewing.com,32.7102641,-117.1562711,East Village,San Diego
 Harland Brewing Co.,"10115 Carroll Canyon Road
-San Diego, California, United States",https://harlandbeer.com/,32.9020696,-117.1074836
+San Diego, California, United States",https://harlandbeer.com/,32.9020696,-117.1074836,Scripps Ranch,San Diego
 Helm's Brewing Co.,"5640 Kearny Mesa Rd.
-San Diego, California, United States",http://www.helmsbrewingco.com,32.8373203,-117.1390676
-High Style Brewing Company,"San Diego, California, United States",https://www.highstyleca.com/,32.715738,-117.1610838
+San Diego, California, United States",http://www.helmsbrewingco.com,32.8373203,-117.1390676,Kearny Mesa,San Diego
+High Style Brewing Company,"San Diego, California, United States",https://www.highstyleca.com/,32.715738,-117.1610838,California,United States
 Hillcrest Brewing Co.,"1458 University Ave.
-San Diego, California, United States",http://www.hillcrestbrewingcompany.com,32.749106,-117.1499114
+San Diego, California, United States",http://www.hillcrestbrewingcompany.com,32.749106,-117.1499114,Hillcrest,San Diego
 Home Brewing Co.,"#2
 2911 El Cajon Boulevard
-San Diego, California, United States",+1 (619) 450-6165,0,0
+San Diego, California, United States",+1 (619) 450-6165,0,0,,
 Intergalactic Brewing Company,"#107
 9715 Carroll Centre Rd
-San Diego, California, United States",http://www.intergalacticbrew.com,0,0
+San Diego, California, United States",http://www.intergalacticbrew.com,0,0,,
 JuneShine,"3052 El Cajon Boulevard
-San Diego, California, United States",https://www.juneshine.co/,32.7555796,-117.1287502
+San Diego, California, United States",https://www.juneshine.co/,32.7555796,-117.1287502,North Park,San Diego
 Karl Strauss Brewing Company,"1157 Columbia Street
-San Diego, California, United States",https://www.karlstrauss.com,32.7174547,-117.1670758
+San Diego, California, United States",https://www.karlstrauss.com,32.7174547,-117.1670758,Core-Columbia,San Diego
 Kensington Brewing Co.,"4067 Adams Avenue
-San Diego, California, United States",https://www.brewerysandiego.com/,32.7630155,-117.1079066
+San Diego, California, United States",https://www.brewerysandiego.com/,32.7630155,-117.1079066,Kensington,San Diego
 Ketch Brewing,"7889 Ostrow Street
-San Diego, California, United States",https://ketchbrewing.com/,32.81326120000001,-117.1552894
+San Diego, California, United States",https://ketchbrewing.com/,32.81326120000001,-117.1552894,Kearny Mesa,San Diego
 Kilowatt Brewing,"7576 Clairemont Mesa Blvd.
-San Diego, California, United States",https://kilowatt.beer,32.8331085,-117.1563692
+San Diego, California, United States",https://kilowatt.beer,32.8331085,-117.1563692,Kearny Mesa,San Diego
 Knotty Brewing Co.,"842 Market Street
-San Diego, California, United States",http://knottybrewing.com/,32.7117775,-117.1568517
+San Diego, California, United States",http://knottybrewing.com/,32.7117775,-117.1568517,Core-Columbia,San Diego
 Latchkey Brewing Company,"2120 W Washington Street
-San Diego, California, United States",https://latchkeybrew.com,32.741909,-117.1835198
+San Diego, California, United States",https://latchkeybrew.com,32.741909,-117.1835198,Mission Hills,San Diego
 Little Miss Brewing,"Suite Y
 6338, 7949 Stromesa Court
-San Diego, California, United States",https://littlemissbrewing.com/,32.8921483,-117.1483505
+San Diego, California, United States",https://littlemissbrewing.com/,32.8921483,-117.1483505,Stromesa Court,Miramar
 Longship Brewery,"10320 Camino Santa Fe ste C
-San Diego, California, United States",https://www.longshipbrewery.com,32.9040608,-117.1714639
+San Diego, California, United States",https://www.longshipbrewery.com,32.9040608,-117.1714639,Camino Santa Fe,Sorrento Mesa
 Mike Hess Brewing Company,"3812 Grim Avenue
-San Diego, California, United States",http://www.mikehessbrewing.com,32.7476888,-117.1285434
+San Diego, California, United States",http://www.mikehessbrewing.com,32.7476888,-117.1285434,North Park,San Diego
 Mikkeller Brewing,"9366 Cabot Drive
-San Diego, California, United States",http://www.mikkellersd.com,32.8923772,-117.1447323
+San Diego, California, United States",http://www.mikkellersd.com,32.8923772,-117.1447323,Miramar,San Diego
 Mission Brewery,"1441 L Street
-San Diego, California, United States",http://missionbrewery.com,32.7071477,-117.1515916
+San Diego, California, United States",http://missionbrewery.com,32.7071477,-117.1515916,East Village,San Diego
 Modern Times Beer,"3725 Greenwood St
-San Diego, California, United States",http://moderntimesbeer.com/tasting-room/point-loma,32.7542044,-117.2061981
+San Diego, California, United States",http://moderntimesbeer.com/tasting-room/point-loma,32.7542044,-117.2061981,Midway District,San Diego
 Monkey Paw Brewing,"805 16th Street
-San Diego, California, United States",http://monkeypawbrewing.com,32.7138573,-117.1492466
+San Diego, California, United States",http://monkeypawbrewing.com,32.7138573,-117.1492466,East Village,San Diego
 New English Brewing Company,"11545 Sorrento Valley Rd.
-San Diego, California, United States",http://www.newenglishbrewing.com,32.9127354,-117.2306057
+San Diego, California, United States",http://www.newenglishbrewing.com,32.9127354,-117.2306057,Torrey Preserve,San Diego
 North Park Beer Co.,"3038 University Ave
-San Diego, California, United States",http://www.northparkbeerco.com/,32.7487183,-117.1291179
+San Diego, California, United States",http://www.northparkbeerco.com/,32.7487183,-117.1291179,North Park,San Diego
 Ocean Beach Brewery,"5041 Newport Avenue
-San Diego, California, United States",http://obbrewingco.com,32.7472201,-117.2519729
+San Diego, California, United States",http://obbrewingco.com,32.7472201,-117.2519729,Point Loma,San Diego
 Original 40 Brewing Company,"3117 University Avenue
-San Diego, California, United States",https://original40brewing.com/,32.7483021,-117.1266132
+San Diego, California, United States",https://original40brewing.com/,32.7483021,-117.1266132,North Park,San Diego
 Pacific Beach Ale House,"721 Grand Avenue
-San Diego, California, United States",https://www.pbalehouse.com/,32.7943249,-117.2553488
+San Diego, California, United States",https://www.pbalehouse.com/,32.7943249,-117.2553488,Pacific Beach,San Diego
 Pariah Brewing Company,"Suite B
 3052 El Cajon Boulevard
-San Diego, California, United States",https://www.pariahbrewing.com/,32.7555796,-117.1287502
+San Diego, California, United States",https://www.pariahbrewing.com/,32.7555796,-117.1287502,El Cajon Boulevard,North Park
 Poor House Brewing Co,"4494 30th Street
-San Diego, California, United States",http://www.poorhousebrew.com/,32.7590107,-117.1303707
+San Diego, California, United States",http://www.poorhousebrew.com/,32.7590107,-117.1303707,North Park,San Diego
 Protector Brewery,"#128
 8680 Miralani Drive
-San Diego, California, United States",https://www.protectorbrewery.com/,0,0
+San Diego, California, United States",https://www.protectorbrewery.com/,0,0,,
 Pure Project Brewing,"#308
 9030 Kenamar Drive
-San Diego, California, United States",https://www.purebrewing.org/,0,0
+San Diego, California, United States",https://www.purebrewing.org/,0,0,,
 Quantum Brewing,"#116
 5375 Kearny Villa Road
-San Diego, California, United States",https://www.quantumbrewingsd.com/,0,0
+San Diego, California, United States",https://www.quantumbrewingsd.com/,0,0,,
 Reckless Brewing Company,"9040 Carroll Way, Suite 8
-San Diego, California, United States",http://www.wetnreckless.com,32.8880071,-117.1596088
+San Diego, California, United States",http://www.wetnreckless.com,32.8880071,-117.1596088,Carroll Way,Miramar
 Resident Brewing,"1065 Fourth Avenue
-San Diego, California, United States",http://residentbrewing.com/,32.716526,-117.1609477
+San Diego, California, United States",http://residentbrewing.com/,32.716526,-117.1609477,Core-Columbia,San Diego
 Rough Draft Brewing Company,"Suite D
 8830 Rehco Road
-San Diego, California, United States",http://www.roughdraftbrew.com,32.8834869,-117.1717856
+San Diego, California, United States",http://www.roughdraftbrew.com,32.8834869,-117.1717856,Rehco Road,Sorrento Valley
 Saint Archer Brewing Co.,"9550 Distribution Avenue
-San Diego, California, United States",https://www.saintarcherbrewery.com/,32.8804823,-117.1634659
+San Diego, California, United States",https://www.saintarcherbrewery.com/,32.8804823,-117.1634659,Miramar,San Diego
 San Diego Brewing Company,"10450 Friars Road
-San Diego, California, United States",https://www.sandiegobrewing.com/,32.7921228,-117.099174
+San Diego, California, United States",https://www.sandiegobrewing.com/,32.7921228,-117.099174,Grantville,San Diego
 Savagewood Brewing Company,"Suite F
 9879 Hibert Street
-San Diego, California, United States",http://www.savagewoodbrewing.com/,32.9132595,-117.1127791
+San Diego, California, United States",http://www.savagewoodbrewing.com/,32.9132595,-117.1127791,Hibert Street,Scripps Ranch
 Second Chance Beer Company,"15378 Avenue of Science #222
-San Diego, California, United States",http://www.secondchancebeer.com,0,0
+San Diego, California, United States",http://www.secondchancebeer.com,0,0,,
 Serpentine Cider,"#100
 8665 Miralani Drive
-San Diego, California, United States",http://www.serpentinecider.com/,0,0
+San Diego, California, United States",http://www.serpentinecider.com/,0,0,,
 Setting Sun Sake Brewing Co.,"#120
 8680 Miralani Drive
-San Diego, California, United States",https://www.settingsunsake.com/,0,0
+San Diego, California, United States",https://www.settingsunsake.com/,0,0,,
 Societe Brewing Company,"8262 Clairemont Mesa Blvd
-San Diego, California, United States",http://societebrewing.com,32.8338314,-117.1462858
+San Diego, California, United States",http://societebrewing.com,32.8338314,-117.1462858,Kearny Mesa,San Diego
 South Park Brewing Company,"1517 30th Street
-San Diego, California, United States",http://southparkbrewing.com/,32.7216794,-117.1300818
+San Diego, California, United States",http://southparkbrewing.com/,32.7216794,-117.1300818,South Park,San Diego
 SouthNorte Beer Co.,"1245 Knoxville Street
-San Diego, California, United States",https://www.southnorte.com,32.7721975,-117.2042686
+San Diego, California, United States",https://www.southnorte.com,32.7721975,-117.2042686,Clairemont,San Diego
 Stone Brewing,"795 J Street
-San Diego, California, United States",http://www.stonebrewing.com,32.7090602,-117.1575701
+San Diego, California, United States",http://www.stonebrewing.com,32.7090602,-117.1575701,East Village,San Diego
 Thorn Brewing,"3176 Thorn Street
-San Diego, California, United States",http://thorn.beer/,32.739475,-117.1255158
+San Diego, California, United States",http://thorn.beer/,32.739475,-117.1255158,North Park,San Diego
 Thorn Brewing,"3176 Thorn Street
-San Diego, California, United States",http://thorn.beer/,32.739475,-117.1255158
+San Diego, California, United States",http://thorn.beer/,32.739475,-117.1255158,North Park,San Diego
 Two Roots Brewing,"4896 Newport Avenue
-San Diego, California, United States",https://www.tworootsbrewingco.com/,32.7458569,-117.2490133
+San Diego, California, United States",https://www.tworootsbrewingco.com/,32.7458569,-117.2490133,Point Loma,San Diego
 White Labs Brewing Co.,"9495 Candida Street
-San Diego, California, United States",https://www.whitelabsbrewingco.com/,32.8957219,-117.1213738
+San Diego, California, United States",https://www.whitelabsbrewingco.com/,32.8957219,-117.1213738,Miramar,San Diego
 21st Amendment Brewery & Restaurant,"563 2nd Street
-San Francisco, California, United States",http://21st-amendment.com/,37.78252790000001,-122.3924578
+San Francisco, California, United States",http://21st-amendment.com/,37.78252790000001,-122.3924578,South Beach,San Francisco
 Almanac Beer Co.,"2325 3rd St Ste #222
-San Francisco, California, United States",http://www.almanacbeer.com/,0,0
-Alpenglow Beer Company,"San Francisco, California, United States",http://buckwildbrew.com,37.7749295,-122.4194155
+San Francisco, California, United States",http://www.almanacbeer.com/,0,0,,
+Alpenglow Beer Company,"San Francisco, California, United States",http://buckwildbrew.com,37.7749295,-122.4194155,California,United States
 Anchor Brewing Company,"1705 Mariposa Street
-San Francisco, California, United States",http://www.anchorbrewing.com/,37.763304,-122.4007997
+San Francisco, California, United States",http://www.anchorbrewing.com/,37.763304,-122.4007997,Potrero Hill,San Francisco
 Armstrong Brewing Company,"415 Grand Avenue
-San Francisco, California, United States",https://www.armstrongbrewing.com,37.6555904,-122.4131455
+San Francisco, California, United States",https://www.armstrongbrewing.com,37.6555904,-122.4131455,Downtown,South San Francisco
 Barebottle Brewery,"1525 Cortland Avenue
-San Francisco, California, United States",http://www.barebottle.com/,37.7400932,-122.4090746
+San Francisco, California, United States",http://www.barebottle.com/,37.7400932,-122.4090746,Bernal Heights,San Francisco
 Barrel Head Brewhouse,"1785 Fulton St.
-San Francisco, California, United States",http://www.barrelheadsf.com/,37.7757009,-122.4460641
+San Francisco, California, United States",http://www.barrelheadsf.com/,37.7757009,-122.4460641,Western Addition,San Francisco
 Black Sands Brewery,"701 Haight St
-San Francisco, California, United States",http://www.blacksandsbeer.com/,37.771455,-122.433855
+San Francisco, California, United States",http://www.blacksandsbeer.com/,37.771455,-122.433855,Lower Haight,San Francisco
 Brasserie Saint James,"742 Valencia Street
-San Francisco, California, United States",http://brasseriesaintjames.com,37.7609648,-122.4217955
+San Francisco, California, United States",http://brasseriesaintjames.com,37.7609648,-122.4217955,Mission District,San Francisco
 Cellarmaker Brewing Co.,"1150 Howard St, San Francisco, CA 94103, USA
-San Francisco, California, United States",https://www.cellarmakerbrewing.com/,37.7772321,-122.4108114
+San Francisco, California, United States",https://www.cellarmakerbrewing.com/,37.7772321,-122.4108114,SoMa,San Francisco
 Ferment.Drink.Repeat.(FDR) Brewery,"2636 San Bruno Avenue
-San Francisco, California, United States",https://www.fermentdrinkrepeat.com/,37.728267,-122.404165
+San Francisco, California, United States",https://www.fermentdrinkrepeat.com/,37.728267,-122.404165,Portola,San Francisco
 Fort Point Beer Company,"Golden Gate National Recreation Area, Presidio of San Francisco, 644 Old Mason St
-San Francisco, California, United States",http://www.fortpointbeer.com/,37.7987852,-122.4637394
+San Francisco, California, United States",http://www.fortpointbeer.com/,37.7987852,-122.4637394,San Francisco,San Francisco County
 Laughing Monk Brewing,"1439A Egbert Ave.
-San Francisco, California, United States",http://www.laughingmonkbrewing.com/,37.7229721,-122.3934042
+San Francisco, California, United States",http://www.laughingmonkbrewing.com/,37.7229721,-122.3934042,Bayview,San Francisco
 Local Brewing Co.,"69 Bluxome St.
-San Francisco, California, United States",http://localbrewingco.com/,37.776487,-122.3971567
+San Francisco, California, United States",http://localbrewingco.com/,37.776487,-122.3971567,SoMa,San Francisco
 Magnolia Brewing,"1398 Haight Street
-San Francisco, California, United States",http://www.magnoliabrewing.com/,37.7703879,-122.4451741
-Palo Alto Brewing Company,"San Francisco, California, United States",http://www.paloaltobrewing.com,37.7749295,-122.4194155
+San Francisco, California, United States",http://www.magnoliabrewing.com/,37.7703879,-122.4451741,Haight-Ashbury,San Francisco
+Palo Alto Brewing Company,"San Francisco, California, United States",http://www.paloaltobrewing.com,37.7749295,-122.4194155,California,United States
 Seven Stills - Brewery & Distillery,"1439 Egbert Avenue
-San Francisco, California, United States",https://www.sevenstillsofsf.com,37.7230321,-122.3935644
+San Francisco, California, United States",https://www.sevenstillsofsf.com,37.7230321,-122.3935644,Bayview,San Francisco
 Social Kitchen & Brewery,"1326 9th Ave.
-San Francisco, California, United States",https://www.socialkitchenandbrewery.com/,37.7634951,-122.4660283
+San Francisco, California, United States",https://www.socialkitchenandbrewery.com/,37.7634951,-122.4660283,Inner Sunset,San Francisco
 Speakeasy Ales & Lagers,"1195 Evans Avenue
-San Francisco, California, United States",http://www.goodbeer.com/,37.73816559999999,-122.3806629
+San Francisco, California, United States",http://www.goodbeer.com/,37.73816559999999,-122.3806629,Bayview,San Francisco
 Tag + Jug Cider Company,"995 9th St
-San Francisco, California, United States",http://www.tagandjug.com/,37.8258512,-122.3694719
+San Francisco, California, United States",http://www.tagandjug.com/,37.8258512,-122.3694719,Treasure Island,San Francisco
 ThirstyBear Brewing Company,"661 Howard Street
-San Francisco, California, United States",http://thirstybear.com/,37.7853542,-122.3994943
+San Francisco, California, United States",http://thirstybear.com/,37.7853542,-122.3994943,Yerba Buena,San Francisco
 Triple Voodoo Brewing & Tap Room,"2245 3rd Street
-San Francisco, California, United States",https://www.triplevoodoo.com/,37.761219,-122.3884587
-GearTooth AleWerks,"San Jose, California, United States",http://www.geartoothalewerks.com,37.3382082,-121.8863286
+San Francisco, California, United States",https://www.triplevoodoo.com/,37.761219,-122.3884587,Central Waterfront,San Francisco
+GearTooth AleWerks,"San Jose, California, United States",http://www.geartoothalewerks.com,37.3382082,-121.8863286,California,United States
 Gordon Biersch Brewery,"33 E San Fernando St
-San Jose, California, United States",http://www.gordonbiersch.com/brewery,37.3348439,-121.8886688
+San Jose, California, United States",http://www.gordonbiersch.com/brewery,37.3348439,-121.8886688,Downtown San Jose,San Jose
 Hermitage Brewing Company,"1627 S. 7th Street
-San Jose, California, United States",http://hermitagebrewing.com,37.3135169,-121.8669683
+San Jose, California, United States",http://hermitagebrewing.com,37.3135169,-121.8669683,South San Jose,San Jose
 Strike Brewing Co.,"30
 2099 S 10th Street
-San Jose, California, United States",http://www.strikebrewingco.com,37.3102156,-121.8578622
+San Jose, California, United States",http://www.strikebrewingco.com,37.3102156,-121.8578622,South 10th Street,South San Jose
 Docent Brewing,"C
 33049 Calle Aviador
-San Juan Capistrano, California, United States",http://docentbrewing.com,33.4832012,-117.6757441
+San Juan Capistrano, California, United States",http://docentbrewing.com,33.4832012,-117.6757441,Calle Aviador,San Juan Capistrano
 Cleophus Quealy Beer Company,"448 Hester St.
-San Leandro, California, United States",http://www.cleoph.us/,37.7222926,-122.1908561
+San Leandro, California, United States",http://www.cleoph.us/,37.7222926,-122.1908561,Davis Tract,San Leandro
 Drake's Brewing Company,"1933 Davis Street, Building 177
-San Leandro, California, United States",http://drinkdrakes.com/,37.7152997,-122.179217
+San Leandro, California, United States",http://drinkdrakes.com/,37.7152997,-122.179217,Davis Street,Davis Tract
 7 Sisters Brewing,"Suite 110
 181 Tank Farm Road
-San Luis Obispo, California, United States",https://www.7sistersbrewing.com/,35.2463028,-120.6707667
+San Luis Obispo, California, United States",https://www.7sistersbrewing.com/,35.2463028,-120.6707667,Tank Farm Road,San Luis Obispo
 Bang the Drum Brewery,"Suite 130
 1150 Laurel Lane
-San Luis Obispo, California, United States",http://www.bangthedrumbrewery.com/,35.263624,-120.644296
+San Luis Obispo, California, United States",http://www.bangthedrumbrewery.com/,35.263624,-120.644296,Laurel Lane,San Luis Obispo
 Central Coast Brewing,"1422 Monterey Street
-San Luis Obispo, California, United States",http://www.centralcoastbrewing.com,35.2858059,-120.6553559
+San Luis Obispo, California, United States",http://www.centralcoastbrewing.com,35.2858059,-120.6553559,San Luis Obispo,San Luis Obispo County
 SLO Brew,"855 Aerovista Lane
-San Luis Obispo, California, United States",https://www.slobrew.com/,35.241619,-120.640981
+San Luis Obispo, California, United States",https://www.slobrew.com/,35.241619,-120.640981,San Luis Obispo,San Luis Obispo County
 Dos Desperados Brewery,"1241 Linda Vista Dr
-San Marcos, California, United States",http://www.dosdesperadosbrew.com,33.1369175,-117.1934247
+San Marcos, California, United States",http://www.dosdesperadosbrew.com,33.1369175,-117.1934247,San Marcos,San Diego County
 Kuracali Saké and Beer Brewery,"175 Bosstick Blvd.
-San Marcos, California, United States",http://www.kuracali.com,33.1616463,-117.2012594
+San Marcos, California, United States",http://www.kuracali.com,33.1616463,-117.2012594,San Marcos,San Diego County
 Mason Ale Works,"255 Redel Road
-San Marcos, California, United States",https://www.masonaleworks.com,33.1358939,-117.1585644
+San Marcos, California, United States",https://www.masonaleworks.com,33.1358939,-117.1585644,San Marcos,San Diego County
 Port Brewing Company,"#104
 155 Mata Way
-San Marcos, California, United States",http://portbrewing.com/,0,0
+San Marcos, California, United States",http://portbrewing.com/,0,0,,
 Rip Current Brewing,"100
 1325 Grand Avenue
-San Marcos, California, United States",http://ripcurrentbrewing.com,33.1427524,-117.1925073
+San Marcos, California, United States",http://ripcurrentbrewing.com,33.1427524,-117.1925073,Grand Avenue,San Marcos
 The Hop Concept,"104
 155 Mata Way
-San Marcos, California, United States",http://thehopconcept.com,33.1416287,-117.1493614
+San Marcos, California, United States",http://thehopconcept.com,33.1416287,-117.1493614,Mata Way,San Marcos
 The Lost Abbey,"155 Mata Way
-San Marcos, California, United States",http://lostabbey.com,33.1416287,-117.1493614
+San Marcos, California, United States",http://lostabbey.com,33.1416287,-117.1493614,San Marcos,San Diego County
 Hop Dogma Brewing Company,"1B
 30 Avenue Portola
-San Mateo, California, United States",http://hopdogma.com/home,37.5023349,-122.4695899
+San Mateo, California, United States",http://hopdogma.com/home,37.5023349,-122.4695899,Avenue Portola,El Granada
 Brouwerij West,"110 E 22nd Street
-San Pedro, California, United States",http://www.brouwerijwest.com,33.7273438,-118.2799354
+San Pedro, California, United States",http://www.brouwerijwest.com,33.7273438,-118.2799354,San Pedro,Los Angeles
 Canyon Lakes Golf Course & Brewery,"640 Bollinger Canyon Way
-San Ramon, California, United States",http://www.canyonlakesgolfbrew.com,37.7708081,-121.9498261
+San Ramon, California, United States",http://www.canyonlakesgolfbrew.com,37.7708081,-121.9498261,San Ramon,Contra Costa County
 Cismontane Brewing Company,"C
 1409 East Warner Ave
-Santa Ana, California, United States",http://www.cismontanebrewing.com/home/,33.7160951,-117.8516664
+Santa Ana, California, United States",http://www.cismontanebrewing.com/home/,33.7160951,-117.8516664,Santa Ana,Orange County
 Island Brewing Company,"5049 6 Street
-Santa Barbara, California, United States",http://www.islandbrewingcompany.com,34.4400639,-119.7390111
+Santa Barbara, California, United States",http://www.islandbrewingcompany.com,34.4174112,-119.6970306,Lower State,Santa Barbara
 Telegraph Brewing Company,"418 N Salsipuedes Street
-Santa Barbara, California, United States",https://www.telegraphbrewing.com,34.4229373,-119.6877074
+Santa Barbara, California, United States",https://www.telegraphbrewing.com,34.4229373,-119.6877074,Santa Barbara,Santa Barbara County
 Uncommon Brewers,"40H
 303 Potrero Street
-Santa Cruz, California, United States",https://www.uncommonbrewers.com,36.9822072,-122.0309589
+Santa Cruz, California, United States",https://www.uncommonbrewers.com,36.9822072,-122.0309589,Potrero Street,Santa Cruz
 FoxCraft Hard Cider Company,"409 Mendocino Avenue
-Santa Maria, California, United States",http://www.foxcraftcider.com,38.44128389999999,-122.7149889
+Santa Maria, California, United States",http://www.foxcraftcider.com,38.44128389999999,-122.7149889,Santa Rosa,Sonoma County
 Santa Maria Brewing Co.,"1451 Fairway Drive
-Santa Maria, California, United States",https://www.santamariabrewing.co/,34.9138683,-120.462901
+Santa Maria, California, United States",https://www.santamariabrewing.co/,34.9138683,-120.462901,Santa Maria,Santa Barbara County
 Santa Monica Brew Works,"1920 Colorado Ave C
-Santa Monica, California, United States",http://www.santamonicabrewworks.com,34.0251855,-118.4768625
+Santa Monica, California, United States",http://www.santamonicabrewworks.com,34.0251855,-118.4768625,Santa Monica,Los Angeles County
 The Dudes' Brewing Company,"304
 395 Santa Monica Place
-Santa Monica, California, United States",http://www.thedudesbrew.com,34.0138617,-118.4939796
+Santa Monica, California, United States",http://www.thedudesbrew.com,34.0138617,-118.4939796,Santa Monica Place,Downtown
 Cooperage Brewing Company,"G
 981 Airway Court
-Santa Rosa, California, United States",https://cooperagebrewing.com,38.4752083,-122.7359139
+Santa Rosa, California, United States",https://cooperagebrewing.com,38.4752083,-122.7359139,Airway Court,Santa Rosa
 Moonlight Brewing Company,"3350 Coffey Lane Suite A
-Santa Rosa, California, United States",https://moonlightbrewing.com/,38.4716214,-122.7445863
+Santa Rosa, California, United States",https://moonlightbrewing.com/,38.4716214,-122.7445863,Coffey Lane,Santa Rosa
 Russian River Brewing Company,"725 4th Street
-Santa Rosa, California, United States",http://russianriverbrewing.com/,38.441806,-122.71165
+Santa Rosa, California, United States",http://russianriverbrewing.com/,38.441806,-122.71165,Santa Rosa,Sonoma County
 Third Street Aleworks,"610 3rd Street
-Santa Rosa, California, United States",http://thirdstreetaleworks.com,38.4398499,-122.7125607
+Santa Rosa, California, United States",http://thirdstreetaleworks.com,38.4398499,-122.7125607,Santa Rosa,Sonoma County
 BNS Brewing & Distilling Company,"Ste 101
 10960 Wheatlands Ave
-Santee, California, United States",http://www.bnsbrewinganddistilling.com,32.8466231,-116.9583633
+Santee, California, United States",http://www.bnsbrewinganddistilling.com,32.8466231,-116.9583633,Wheatlands Avenue,Santee
 Finest Made Ales,"9962 Prospect Ave.
-Santee, California, United States",http://www.finestmade.com,32.8319916,-116.9796314
+Santee, California, United States",http://www.finestmade.com,32.8319916,-116.9796314,Santee,San Diego County
 Thr3e Punk Ales Brewing Co.,"9962 Prospect Ave E.
-Santee, California, United States",http://3punkales.com,32.8319916,-116.9796314
+Santee, California, United States",http://3punkales.com,32.8319916,-116.9796314,Santee,San Diego County
 Ace Cider,"2064 Gravenstein Hwy N #40
-Sebastopol, California, United States",http://www.acecider.com,0,0
+Sebastopol, California, United States",http://www.acecider.com,0,0,,
 Culture Brewing Co.,"Ste 200
 111 S Cedros Ave
-Solana Beach, California, United States",https://culturebrewingco.com,32.9915796,-117.2707116
+Solana Beach, California, United States",https://culturebrewingco.com,32.9915796,-117.2707116,South Cedros Avenue,Solana Beach
 Carneros Brewing Company,"22985 Burndale Rd
-Sonoma, California, United States",https://www.carnerosbrewing.com/,38.2453253,-122.4224812
+Sonoma, California, United States",https://www.carnerosbrewing.com/,38.2453253,-122.4224812,Sonoma,Sonoma County
 Sonoma Springs Brewing Company,"19449 Riverside Drive
-Sonoma, California, United States",http://www.sonomaspringsbrewing.com/,38.2949714,-122.4771298
+Sonoma, California, United States",http://www.sonomaspringsbrewing.com/,38.2949714,-122.4771298,Riverside Drive,Sonoma
 Discretion Brewing,"2703 41 Avenue
-Soquel, California, United States",http://www.discretionbrewing.com,36.9860362,-121.9659297
+Soquel, California, United States",http://www.discretionbrewing.com,36.9860362,-121.9659297,Soquel,Santa Cruz County
 Faultline Brewing Company,"1235 Oakmead Pkwy
-Sunnyvale, California, United States",https://template.citycheers.com/851,37.3876432,-121.9924746
+Sunnyvale, California, United States",https://template.citycheers.com/851,37.3876432,-121.9924746,Sunnyvale,Santa Clara County
 Diamond Mountain Brewery,"900 Skyline
-Susanville, California, United States",http://www.dmcah.com/brewery.php,40.4307112,-120.6574965
+Susanville, California, United States",http://www.dmcah.com/brewery.php,40.4307112,-120.6574965,Susanville,Lassen County
 Black Market Brewing Co,"109
 41740 Enterprise Circle N
-Temecula, California, United States",https://blackmarketbrew.com,33.5185494,-117.1696067
+Temecula, California, United States",https://blackmarketbrew.com,33.5185494,-117.1696067,Enterprise Circle North,Temecula
 Refuge Brewery,"43040 Rancho Way
-Temecula, California, United States",http://www.refugebrew.com,33.504177,-117.158744
+Temecula, California, United States",http://www.refugebrew.com,33.504177,-117.158744,Temecula,Riverside County
 Wiens Brewing Company,"Suite A
 27941 Diaz Road
-Temecula, California, United States",http://wiensbrewing.com,33.5052704,-117.1599518
+Temecula, California, United States",http://wiensbrewing.com,33.5052704,-117.1599518,Diaz Road,Temecula
 HopSaint Brewing Company,"5160 West 190th Street
-Torrance, California, United States",https://www.hopsaint.com,33.8576218,-118.3676982
+Torrance, California, United States",https://www.hopsaint.com,33.8576218,-118.3676982,West Torrance,Torrance
 Morgan Territory Brewing,"1885 N MacArthur Drive
-Tracy, California, United States",http://morganterritorybrewing.com,37.7472113,-121.4128489
+Tracy, California, United States",http://morganterritorybrewing.com,37.7472113,-121.4128489,Tracy,San Joaquin County
 FiftyFifty Brewing Company,"1
 11197 Brockway Road
-Truckee, California, United States",http://fiftyfiftybrewing.com,39.32190569999999,-120.1633681
+Truckee, California, United States",http://fiftyfiftybrewing.com,39.32190569999999,-120.1633681,Brockway Road,Truckee
 Dust Bowl Brewing,"3000 Fulkerth Road
-Turlock, California, United States",https://www.dustbowlbrewing.com,37.5063756,-120.8827288
+Turlock, California, United States",https://www.dustbowlbrewing.com,37.5063756,-120.8827288,Turlock,Stanislaus County
 Tustin Brewing Company,"100
 13011 Newport Avenue
-Turlock, California, United States",http://tustinbrewery.com,33.7498508,-117.8107831
+Turlock, California, United States",http://tustinbrewery.com,33.7498508,-117.8107831,Newport Avenue,Tustin
 Last Name Brewing,"2120 PORTERFIELD WAY
-Upland, California, United States",http://lastnamebrewing.com,34.1089328,-117.6907225
+Upland, California, United States",http://lastnamebrewing.com,34.1089328,-117.6907225,Upland,San Bernardino County
 The Stout House,"1294 West 9th Street
-Upland, California, United States",+1 (909) 493-7158,34.095632,-117.6725868
+Upland, California, United States",+1 (909) 493-7158,34.095632,-117.6725868,Upland,San Bernardino County
 Aztec Brewing Company,"Suite 300
 2330 La Mirada Dr.
-Vista, California, United States",http://aztecbrewery.com,33.149647,-117.23004
+Vista, California, United States",http://aztecbrewery.com,33.149647,-117.23004,La Mirada Drive,Vista
 Back Street Brewery,"#B100
 15 Main St.
-Vista, California, United States",http://www.backstreetbrew.com,0,0
+Vista, California, United States",http://www.backstreetbrew.com,0,0,,
 Barrel Harbor Brewing Company,"Suite 104
 2575 Pioneer Ave
-Vista, California, United States",https://barrelharborbrewing.com,33.1488745,-117.2215877
+Vista, California, United States",https://barrelharborbrewing.com,33.1488745,-117.2215877,Pioneer Avenue,Vista
 Bear Roots Brewing Co.,"1213 S Santa Fe Ave.
-Vista, California, United States",http://bearrootsbrewing.com,33.1882451,-117.2263421
+Vista, California, United States",http://bearrootsbrewing.com,33.1882451,-117.2263421,Vista,San Diego County
 Belching Beaver Brewery,"980 Park Center Drive
-Vista, California, United States",http://www.belchingbeaver.com,33.1450194,-117.2296725
+Vista, California, United States",http://www.belchingbeaver.com,33.1450194,-117.2296725,Vista,San Diego County
 Booze Brothers Brewing Co.,"Suite D
 2545 Progress Street
-Vista, California, United States",http://boozebros.com,33.148182,-117.2181424
+Vista, California, United States",http://boozebros.com,33.148182,-117.2181424,Progress Street,Vista
 Indian Joe Brewing,"2123 Industrial Ct.
-Vista, California, United States",https://indianjoebrewing.com,33.1694243,-117.2204901
+Vista, California, United States",https://indianjoebrewing.com,33.1694243,-117.2204901,Vista,San Diego County
 Iron Fist Brewing Company,"101
 1305 Hot Spring Way
-Vista, California, United States",http://ironfistbrewing.com,33.1450803,-117.2390501
+Vista, California, United States",http://ironfistbrewing.com,33.1450803,-117.2390501,Hot Spring Way,Vista
 Latitude 33 Brewing Co.,"Ste 104
 1430 Vantage Court
-Vista, California, United States",http://latitude33brewing.com,33.136034,-117.224863
+Vista, California, United States",http://latitude33brewing.com,33.136034,-117.224863,Vantage Court,Vista
 Mother Earth Brew Co.,"206 Main Street
-Vista, California, United States",https://www.motherearthbrewco.com,33.2024551,-117.2423369
+Vista, California, United States",https://www.motherearthbrewco.com,33.2024551,-117.2423369,Vista,San Diego County
 Calicraft Brewing Co.,"2700 Mitchell Dr.
-Walnut Creek, California, United States",http://www.calicraft.com/,37.9312178,-122.0256745
+Walnut Creek, California, United States",http://www.calicraft.com/,37.9312178,-122.0256745,Walnut Creek,Contra Costa County
 Corralitos Brewing Company,"2536 Freedom Blvd
-Watsonville, California, United States",http://www.corralitosbrewingco.com,36.9500955,-121.7929532
+Watsonville, California, United States",http://www.corralitosbrewingco.com,36.9500955,-121.7929532,Watsonville,Santa Cruz County
 Jackrabbit Brewing Company,"1323 Terminal Street
-West Sacramento, California, United States",https://www.jackrabbitbrewingcompany.com/,38.5720287,-121.5411352
+West Sacramento, California, United States",https://www.jackrabbitbrewingcompany.com/,38.5720287,-121.5411352,West Sacramento,Yolo County
 MadeWest Brewing Company,"1744 Donlon Street
-Westlake Village, California, United States",https://madewest.com,34.2559621,-119.2374813
+Westlake Village, California, United States",https://madewest.com,34.2559621,-119.2374813,Ventura,Ventura County
 Berryessa Brewing Co.,"27260 hwy 128
-Winters, California, United States",http://berryessabrewingco.com/home,38.5137584,-122.0032452
+Winters, California, United States",http://berryessabrewingco.com/home,38.5137584,-122.0032452,Winters,Yolo County
