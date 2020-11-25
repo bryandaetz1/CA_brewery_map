@@ -85,19 +85,28 @@ def get_lat_lng(address):
         resp_json_payload = response.json()
         lat = resp_json_payload['results'][0]['geometry']['location']['lat']
         lng = resp_json_payload['results'][0]['geometry']['location']['lng']
+        city = resp_json_payload['results'][0]['address_components'][2]['long_name']
+        county = resp_json_payload['results'][0]['address_components'][3]['long_name']
+        
     except:
         print('ERROR: {}'.format(address))
         lat = 0
         lng = 0
-    return lat, lng
+        city = ''
+        county = ''
+    return lat, lng, city, county
 
 #iterating through Address column and geocoding latitudes and longitudes
 brew_df['latitude'] = ''
 brew_df['longitude'] = ''
+brew_df['City'] = ''
+brew_df['County'] = ''
 for i, address in enumerate(brew_df['Address']):
-    lat,lng = get_lat_lng(address)
+    lat,lng,city,county = get_lat_lng(address)
     brew_df['latitude'][i] = lat
     brew_df['longitude'][i] = lng
+    brew_df['City'][i] = city
+    brew_df['County'][i] = county
 
 #outputing new dataframes to csv    
 brew_df.to_csv('breweries.csv', index = False)
